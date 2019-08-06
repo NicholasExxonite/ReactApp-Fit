@@ -1,4 +1,9 @@
 import React from 'react';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.bundle.min';
+import $ from 'jquery';
+import {Nav, Navbar} from 'react-bootstrap';
+import Popper from 'popper.js';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
